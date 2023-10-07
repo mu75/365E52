@@ -11,4 +11,4 @@ def focus_timer(minutes):
     print("时间到！")
 
 # 设置专注时长为25分钟
-focus_timer(25)
+focus_timer(15)
